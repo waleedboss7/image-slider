@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=, initial-scale=1.0">
+	<title>Animated log In Form</title>   
+	<link rel="stylesheet" a href="loginv2.css">
+</head>
+<body>
+	<div id="slider">
+		<figure>
+			<img src="Images/joker.jpg" alt="joker">
+			<img src="Images/lens.jpg" alt="laughing">
+			<img src="Images/moon.png" alt="moon">
+			<img src="images/porsche.jpg" alt="car">
+			<img src="images/wall.jpg" alt="hec">
+		</figure>
+	</div>
+</body>
+</html>
